@@ -5,7 +5,7 @@
 
 Modelling plausible 3D human body motion in a structured low dimensional representation can be benefitial for many 3D vision tasks such as motion transfer, completion or interpolation. We propose a low dimensional representation of motion which disentangles the influence of body shape and motion by leveraging a Variational Autoencoder framework.
 
-![Teaser](images/teaser.png)
+![Teaser](teaser.png)
 
 # Code 
 
